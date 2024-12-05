@@ -151,7 +151,6 @@ Through this project, I successfully installed PostgreSQL on Docker, created a d
 - **Backup & Restore**: Learn how to backup and restore PostgreSQL databases in Docker.
 - **Advanced Configuration**: Explore advanced PostgreSQL configurations, such as replication and clustering.
 - **Docker Compose**: Use Docker Compose to manage multi-container applications and PostgreSQL services.
-- 
+
 ---
 
-Feel free to customize this further based on your needs, or add any additional sections you feel might be helpful!
