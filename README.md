@@ -136,6 +136,11 @@ To verify that the `class` database and the `students` table were created, open 
 ```sql
 SELECT * FROM students;
 ```
+## Video
+
+
+https://github.com/user-attachments/assets/e58143d1-c422-4f17-ae81-3fe5a8b9062c
+
 
 ## Conclusion
 
